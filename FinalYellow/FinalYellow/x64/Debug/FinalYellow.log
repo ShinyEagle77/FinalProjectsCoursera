@@ -1,0 +1,13 @@
+﻿  FinalYellow.cpp
+F:\C++\Source\repos\FinalYellow\FinalYellow\eventstruc.h(21,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+F:\C++\Source\repos\FinalYellow\FinalYellow\database.h(34): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Events::RemoveIf<Database::RemoveIf::<lambda_27c75b61406daa23ef67072272ecf9d9>>(Predicate)"
+          with
+          [
+              Predicate=Database::RemoveIf::<lambda_27c75b61406daa23ef67072272ecf9d9>
+          ]
+F:\C++\Source\repos\FinalYellow\FinalYellow\FinalYellow.cpp(49): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Database::RemoveIf<main::<lambda_f6fab6fc0f8047f55c9dc8bbe251cb96>>(Predicate)"
+          with
+          [
+              Predicate=main::<lambda_f6fab6fc0f8047f55c9dc8bbe251cb96>
+          ]
+  FinalYellow.vcxproj -> F:\C++\Source\repos\FinalYellow\x64\Debug\FinalYellow.exe

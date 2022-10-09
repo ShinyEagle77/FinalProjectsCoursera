@@ -10,7 +10,6 @@
       void UpdateDocumentBase(istream& document_input);
       void AddQueriesStream(istream& query_input, ostream& search_results_output);
     };
-
 #### Конструктор
 Конструктор класса SearchServer принимает поток ввода, содержащий базу документов. При этом
 

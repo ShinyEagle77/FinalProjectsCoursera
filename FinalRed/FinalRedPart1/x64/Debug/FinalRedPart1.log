@@ -1,0 +1,12 @@
+﻿  FinalRedPart1.cpp
+F:\C++\Source\repos\FinalRedPart1\parse.h(11,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\C++\Source\repos\FinalRedPart1\FinalRedPart1.cpp(21): message : see reference to function template instantiation 'std::string Join<std::vector<std::string,std::allocator<std::string>>>(char,const Container &)' being compiled
+          with
+          [
+              Container=std::vector<std::string,std::allocator<std::string>>
+          ]
+  parse.cpp
+  profile_advance.cpp
+  search_server.cpp
+  Generating Code...
+  FinalRedPart1.vcxproj -> F:\C++\Source\repos\FinalRed\x64\Debug\FinalRedPart1.exe
